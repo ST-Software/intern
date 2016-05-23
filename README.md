@@ -9,4 +9,4 @@
 
 ## Workflow
 
-- fork one of intern's repo  [health check](https://github.com/ST-Software/intern-messagesender-healthcheck), [web testing] (https://github.com/ST-Software/intern-web-testing), [rule engine] (https://github.com/ST-Software/intern-rule-engine) to your github account
+- [fork](https://help.github.com/articles/fork-a-repo/) one of intern's repo  [health check](https://github.com/ST-Software/intern-messagesender-healthcheck), [web testing] (https://github.com/ST-Software/intern-web-testing), [rule engine] (https://github.com/ST-Software/intern-rule-engine) to your github account
